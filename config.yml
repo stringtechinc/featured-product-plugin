@@ -1,0 +1,5 @@
+name: おすすめ商品プラグイン
+code: FeaturedProduct
+version: 1.0.0
+service:
+    - FeaturedProductServiceProvider
